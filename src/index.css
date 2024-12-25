@@ -1,0 +1,25 @@
+body {
+  background-color: #f4f6f9;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+button {
+  margin: 5px;
+}
+
+.bg-danger {
+  background-color: #f8d7da !important;
+}
+
+.text-white {
+  color: #ffffff !important;
+}
